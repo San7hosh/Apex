@@ -69,4 +69,5 @@ public with sharing class AccountTriggerHandler {
             INSERT oppList;
         }
     }
-}
+} 
+// end of the page
